@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176818954625",
+    "project_id": "firestore-430fc",
+    "storage_bucket": "firestore-430fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176818954625:android:176fa2dabe4414da170880",
+        "android_client_info": {
+          "package_name": "com.barb.f"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANExDKtCqDIPOZ5SkvY277GYL2xWxk6ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176818954625:android:d788c512a7927474170880",
+        "android_client_info": {
+          "package_name": "com.barb.firestone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANExDKtCqDIPOZ5SkvY277GYL2xWxk6ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
